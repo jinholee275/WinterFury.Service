@@ -1,0 +1,6 @@
+@WTF.Web_HostAddress = http://localhost:5296
+
+GET {{WTF.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
